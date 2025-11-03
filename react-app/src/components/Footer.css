@@ -1,0 +1,31 @@
+.footer {
+    background: var(--secondary-color);
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.footer-content {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.footer p {
+    color: var(--text-gray);
+    margin-bottom: 10px;
+}
+
+.footer-note {
+    font-size: 0.9rem;
+    font-style: italic;
+    opacity: 0.7;
+    margin-bottom: 15px;
+}
+
+.footer-keywords {
+    font-size: 0.85rem;
+    color: var(--text-gray);
+    opacity: 0.6;
+    font-weight: 300;
+}
+
