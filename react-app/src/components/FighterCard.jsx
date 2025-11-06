@@ -26,6 +26,7 @@ const FighterCard = ({ fighter }) => {
             alt={`${fighter.name} boxeador chileno`}
             className={`fighter-image ${fighter.specialImageClass ? 'vargas-image' : ''}`}
             onError={handleImageError}
+            loading="lazy"
           />
         </div>
         <div className="fighter-text-container">

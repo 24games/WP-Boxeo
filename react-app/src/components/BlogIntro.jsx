@@ -5,7 +5,7 @@ const BlogIntro = () => {
     <article className="blog-intro">
       <div className="intro-content">
         <p className="blog-date">
-          Publicado el: <time dateTime="2024-01-15">15 de Enero de 2024</time>
+          Publicado el: <time dateTime="2024-12-19">19 de Diciembre de 2024</time>
         </p>
         <p className="intro-text">
           El <strong>boxeo chileno</strong> tiene una rica y gloriosa tradición que se remonta a las décadas de 1940 y 1950, período considerado la <strong>edad de oro del boxeo en Chile</strong>. Durante este período, el país produjo algunos de los más talentosos <strong>pugilistas de América Latina</strong>, que no solo dominaron los cuadriláteros nacionales y sudamericanos, sino que también dejaron su marca en el <strong>escenario mundial del boxeo profesional</strong>.
@@ -19,9 +19,12 @@ const BlogIntro = () => {
       </div>
       <div className="featured-image">
         <img 
-          src="https://images.unsplash.com/photo-1575747515871-2e323827539e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1641" 
+          src="https://images.unsplash.com/photo-1575654402720-0af3480d1fad?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1482" 
           alt="Cuadrilátero de boxeo profesional histórico - Boxeo Chileno" 
           className="main-image"
+          loading="lazy"
+          width="1482"
+          height="988"
         />
         <p className="image-caption">
           El boxeo chileno tiene una rica tradición que produjo grandes campeones mundiales

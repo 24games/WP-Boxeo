@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Verificar si el elemento existe antes de manipular
             if (!content) {
-                console.error('Elemento no encontrado:', targetId);
+                // Elemento no encontrado - retornar silenciosamente
                 return;
             }
             
