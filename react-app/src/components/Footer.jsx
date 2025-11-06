@@ -4,15 +4,15 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>&copy; 2024 Blog de Boxe Chileno. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Blog de Boxeo Chileno. Todos los derechos reservados.</p>
         <p className="footer-note">
-          Uma homenagem aos grandes nomes que elevaram o boxe chileno ao cenário mundial.
+          Un homenaje a los grandes nombres que elevaron el boxeo chileno al escenario mundial.
         </p>
         <p className="footer-disclaimer">
-          Este blog é exclusivamente informativo e não possui intuito de obter retornos financeiros. Todo o conteúdo é produzido apenas para fins educacionais e de compartilhamento de conhecimento sobre a história do boxe chileno.
+          Este blog es exclusivamente informativo y no posee intención de obtener retornos financieros. Todo el contenido es producido únicamente para fines educacionales y de compartimiento de conocimiento sobre la historia del boxeo chileno.
         </p>
         <p className="footer-keywords">
-          Boxeadores Chilenos | Boxe Chile | História do Boxe | Campeões Mundiais | Boxe Profissional
+          Boxeadores Chilenos | Boxeo Chile | Historia del Boxeo | Campeones Mundiales | Boxeo Profesional
         </p>
       </div>
     </footer>

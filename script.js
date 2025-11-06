@@ -6,9 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
             const targetId = this.getAttribute('data-target');
             const content = document.getElementById(targetId);
             
-            // Verificar se o elemento existe antes de manipular
+            // Verificar si el elemento existe antes de manipular
             if (!content) {
-                console.error('Elemento não encontrado:', targetId);
+                console.error('Elemento no encontrado:', targetId);
                 return;
             }
             
@@ -20,9 +20,9 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Change button text
             if (content.classList.contains('active')) {
-                this.innerHTML = 'Ler Menos <span class="arrow">↑</span>';
+                this.innerHTML = 'Leer Menos <span class="arrow">↑</span>';
             } else {
-                this.innerHTML = 'Ler Mais <span class="arrow">↓</span>';
+                this.innerHTML = 'Leer Más <span class="arrow">↓</span>';
             }
         });
     });

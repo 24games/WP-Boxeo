@@ -41,7 +41,7 @@ const FighterCard = ({ fighter }) => {
             className={`expand-btn ${isExpanded ? 'active' : ''}`}
             onClick={() => setIsExpanded(!isExpanded)}
           >
-            {isExpanded ? 'Ler Menos' : 'Ler Mais'} 
+            {isExpanded ? 'Leer Menos' : 'Leer Más'} 
             <span className="arrow">{isExpanded ? '↑' : '↓'}</span>
           </button>
           <div className={`expandable-content ${isExpanded ? 'active' : ''}`}>

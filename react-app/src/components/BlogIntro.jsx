@@ -5,26 +5,26 @@ const BlogIntro = () => {
     <article className="blog-intro">
       <div className="intro-content">
         <p className="blog-date">
-          Publicado em: <time dateTime="2024-01-15">15 de Janeiro de 2024</time>
+          Publicado el: <time dateTime="2024-01-15">15 de Enero de 2024</time>
         </p>
         <p className="intro-text">
-          O <strong>boxe chileno</strong> tem uma rica e gloriosa tradição que remonta às décadas de 1940 e 1950, período considerado a <strong>era dourada do boxe no Chile</strong>. Durante este período, o país produziu alguns dos mais talentosos <strong>pugilistas da América Latina</strong>, que não apenas dominaram os ringues nacionais e sul-americanos, mas também deixaram sua marca no <strong>cenário mundial do boxe profissional</strong>.
+          El <strong>boxeo chileno</strong> tiene una rica y gloriosa tradición que se remonta a las décadas de 1940 y 1950, período considerado la <strong>edad de oro del boxeo en Chile</strong>. Durante este período, el país produjo algunos de los más talentosos <strong>pugilistas de América Latina</strong>, que no solo dominaron los cuadriláteros nacionales y sudamericanos, sino que también dejaron su marca en el <strong>escenario mundial del boxeo profesional</strong>.
         </p>
         <p className="intro-text">
-          Neste artigo especial sobre a <strong>história do boxe chileno</strong>, apresentaremos os <strong>5 maiores boxeadores chilenos de todos os tempos</strong>. Estes lutadores excepcionais elevaram o nome do Chile no boxe mundial, enfrentando alguns dos maiores campeões da história do esporte e conquistando títulos que inspiram novas gerações de atletas.
+          En este artículo especial sobre la <strong>historia del boxeo chileno</strong>, presentaremos a los <strong>5 mejores boxeadores chilenos de todos los tiempos</strong>. Estos pugilistas excepcionales elevaron el nombre de Chile en el boxeo mundial, enfrentándose a algunos de los mayores campeones de la historia del deporte y conquistando títulos que inspiran a nuevas generaciones de atletas.
         </p>
         <p className="intro-text">
-          De <strong>Arturo Godoy</strong>, que desafiou o lendário <strong>Joe Louis</strong> pelos pesos pesados, a <strong>Martín Vargas</strong>, o ícone nacional que disputou quatro vezes o título mundial, passando por <strong>Godfrey Stevens</strong>, <strong>Benedicto Villablanca</strong> e <strong>Alfredo Cornejo</strong> - cada um desses boxeadores escreveu capítulos memoráveis na história do <strong>boxe profissional chileno</strong>.
+          Desde <strong>Arturo Godoy</strong>, que desafió al legendario <strong>Joe Louis</strong> en peso pesado, hasta <strong>Martín Vargas</strong>, el ícono nacional que disputó cuatro veces el título mundial, pasando por <strong>Godfrey Stevens</strong>, <strong>Benedicto Villablanca</strong> y <strong>Alfredo Cornejo</strong> - cada uno de estos boxeadores escribió capítulos memorables en la historia del <strong>boxeo profesional chileno</strong>.
         </p>
       </div>
       <div className="featured-image">
         <img 
           src="https://images.unsplash.com/photo-1575747515871-2e323827539e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1641" 
-          alt="Ringue de boxe profissional histórico - Boxe Chileno" 
+          alt="Cuadrilátero de boxeo profesional histórico - Boxeo Chileno" 
           className="main-image"
         />
         <p className="image-caption">
-          O boxe chileno tem uma rica tradição que produziu grandes campeões mundiais
+          El boxeo chileno tiene una rica tradición que produjo grandes campeones mundiales
         </p>
       </div>
     </article>

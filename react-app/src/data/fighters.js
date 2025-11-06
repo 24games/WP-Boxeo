@@ -3,30 +3,30 @@ export const fighters = [
     id: 'godoy',
     number: '01',
     name: 'Arturo Godoy',
-    title: 'O Boxeador Chileno que Desafiou Joe Louis',
-    subtitle: 'O Desafiante de Joe Louis pelo Título Mundial dos Pesos Pesados',
+    title: 'El Boxeador Chileno que Desafió a Joe Louis',
+    subtitle: 'El Desafiante de Joe Louis por el Título Mundial de Peso Pesado',
     image: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Arturo_Godoy_%28Chile%29.jpg',
     imageFallback: 'https://images.unsplash.com/photo-1540606275697-0df3f36bda7c?w=800&h=600&fit=crop',
     description: [
-      '<strong>Arturo Godoy</strong>, nascido em Iquique em 1912, foi sem dúvida um dos mais destacados e famosos <strong>boxeadores chilenos de todos os tempos</strong>. Ele é mundialmente conhecido por ter desafiado o lendário <strong>Joe Louis</strong> duas vezes pelo <strong>título mundial dos pesos pesados</strong> em 1940, colocando definitivamente o <strong>boxe chileno no mapa internacional</strong> e tornando-se um verdadeiro <strong>ícone nacional do boxe</strong>.',
-      'Como um dos primeiros <strong>pugilistas chilenos</strong> a alcançar o cenário mundial do boxe profissional, Arturo Godoy estabeleceu um precedente histórico que inspiraria gerações futuras de <strong>boxeadores chilenos</strong>. Suas lutas contra Joe Louis são lembradas como alguns dos momentos mais épicos da <strong>história do boxe chileno</strong> e da <strong>história do boxe mundial</strong>.'
+      '<strong>Arturo Godoy</strong>, nacido en Iquique en 1912, fue sin duda uno de los más destacados y famosos <strong>boxeadores chilenos de todos los tiempos</strong>. Es mundialmente conocido por haber desafiado al legendario <strong>Joe Louis</strong> dos veces por el <strong>título mundial de peso pesado</strong> en 1940, colocando definitivamente al <strong>boxeo chileno en el mapa internacional</strong> y convirtiéndose en un verdadero <strong>ícono nacional del boxeo</strong>.',
+      'Como uno de los primeros <strong>pugilistas chilenos</strong> en alcanzar el escenario mundial del boxeo profesional, Arturo Godoy estableció un precedente histórico que inspiraría a generaciones futuras de <strong>boxeadores chilenos</strong>. Sus peleas contra Joe Louis son recordadas como algunos de los momentos más épicos de la <strong>historia del boxeo chileno</strong> y de la <strong>historia del boxeo mundial</strong>.'
     ],
     detailedInfo: [
       {
-        title: 'Início da Carreira no Boxe Profissional',
-        content: '<strong>Arturo Godoy</strong> iniciou sua carreira no <strong>boxe profissional</strong> nos anos 1930, demonstrando desde cedo um talento excepcional para o esporte. Sua força física impressionante, técnica apurada e determinação feroz o levaram a conquistar o <strong>título sul-americano dos pesos pesados</strong> em 1939, estabelecendo-se como um dos principais <strong>boxeadores da América Latina</strong> da época. Esta conquista regional foi o primeiro passo em sua jornada rumo ao <strong>boxe mundial</strong>.'
+        title: 'Inicio de la Carrera en el Boxeo Profesional',
+        content: '<strong>Arturo Godoy</strong> inició su carrera en el <strong>boxeo profesional</strong> en los años 1930, demostrando desde temprano un talento excepcional para el deporte. Su impresionante fuerza física, técnica depurada y feroz determinación lo llevaron a conquistar el <strong>título sudamericano de peso pesado</strong> en 1939, estableciéndose como uno de los principales <strong>boxeadores de América Latina</strong> de la época. Esta conquista regional fue el primer paso en su jornada hacia el <strong>boxeo mundial</strong>.'
       },
       {
-        title: 'As Lutas Épicas Contra Joe Louis pelo Título Mundial',
-        content: 'Em 1940, <strong>Arturo Godoy</strong> alcançou o auge de sua carreira ao desafiar <strong>Joe Louis</strong>, considerado um dos maiores <strong>boxeadores de todos os tempos</strong> e então <strong>campeão mundial dos pesos pesados</strong>. A primeira luta aconteceu no icônico <strong>Madison Square Garden</strong>, em Nova York, e durou 15 rounds intensos e memoráveis. <strong>Godoy impressionou o mundo do boxe</strong> ao levar a luta até o final contra o temível campeão, perdendo apenas por <strong>decisão dividida</strong> - uma das lutas mais difíceis e surpreendentes da carreira de <strong>Joe Louis</strong>. Esta primeira luta marcou um momento histórico para o <strong>boxe chileno</strong>, demonstrando que os <strong>pugilistas chilenos</strong> podiam competir de igual para igual com os maiores nomes do <strong>boxe mundial</strong>.'
+        title: 'Las Peleas Épicas Contra Joe Louis por el Título Mundial',
+        content: 'En 1940, <strong>Arturo Godoy</strong> alcanzó la cima de su carrera al desafiar a <strong>Joe Louis</strong>, considerado uno de los mayores <strong>boxeadores de todos los tiempos</strong> y entonces <strong>campeón mundial de peso pesado</strong>. La primera pelea tuvo lugar en el icónico <strong>Madison Square Garden</strong>, en Nueva York, y duró 15 rounds intensos y memorables. <strong>Godoy impresionó al mundo del boxeo</strong> al llevar la pelea hasta el final contra el temible campeón, perdiendo solo por <strong>decisión dividida</strong> - una de las peleas más difíciles y sorprendentes de la carrera de <strong>Joe Louis</strong>. Esta primera pelea marcó un momento histórico para el <strong>boxeo chileno</strong>, demostrando que los <strong>pugilistas chilenos</strong> podían competir de igual a igual con los mayores nombres del <strong>boxeo mundial</strong>.'
       },
       {
-        title: 'A Revanche Histórica Contra Joe Louis',
-        content: 'Em uma revanche muito aguardada pelos fãs de boxe ao redor do mundo, <strong>Godoy enfrentou novamente Joe Louis</strong> em 1940. Embora tenha sido derrotado no oitavo round nesta segunda luta, sua coragem extraordinária e resistência física ao enfrentar o temido <strong>campeão mundial</strong> já haviam garantido definitivamente seu lugar na <strong>história do boxe</strong>.'
+        title: 'La Revancha Histórica Contra Joe Louis',
+        content: 'En una revancha muy esperada por los fanáticos del boxeo alrededor del mundo, <strong>Godoy enfrentó nuevamente a Joe Louis</strong> en 1940. Aunque fue derrotado en el octavo round en esta segunda pelea, su extraordinaria valentía y resistencia física al enfrentar al temido <strong>campeón mundial</strong> ya habían garantizado definitivamente su lugar en la <strong>historia del boxeo</strong>.'
       },
       {
-        title: 'Legado e Reconhecimento no Boxe Mundial',
-        content: '<strong>Arturo Godoy</strong> continuou lutando <strong>boxe profissional</strong> até 1954, mantendo-se como uma figura respeitada e admirada no <strong>boxe mundial</strong>. Suas lutas históricas contra <strong>Joe Louis</strong> permanecem como momentos épicos não apenas da <strong>história do boxe chileno</strong>, mas da própria <strong>história do boxe mundial</strong>. <strong>Godoy</strong> faleceu em 1986, mas seu <strong>legado como um dos maiores boxeadores chilenos</strong> de todos os tempos continua inspirando novas gerações de <strong>atletas do boxe</strong>.'
+        title: 'Legado y Reconocimiento en el Boxeo Mundial',
+        content: '<strong>Arturo Godoy</strong> continuó luchando en <strong>boxeo profesional</strong> hasta 1954, manteniéndose como una figura respetada y admirada en el <strong>boxeo mundial</strong>. Sus peleas históricas contra <strong>Joe Louis</strong> permanecen como momentos épicos no solo de la <strong>historia del boxeo chileno</strong>, sino de la propia <strong>historia del boxeo mundial</strong>. <strong>Godoy</strong> falleció en 1986, pero su <strong>legado como uno de los mayores boxeadores chilenos</strong> de todos los tiempos continúa inspirando a nuevas generaciones de <strong>atletas del boxeo</strong>.'
       }
     ]
   },
@@ -34,30 +34,30 @@ export const fighters = [
     id: 'vargas',
     number: '02',
     name: 'Martín Vargas',
-    title: 'O Ícone Nacional do Boxe Chileno',
-    subtitle: 'O Boxeador que Disputou Quatro Vezes o Título Mundial',
+    title: 'El Ícono Nacional del Boxeo Chileno',
+    subtitle: 'El Boxeador que Disputó Cuatro Veces el Título Mundial',
     image: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Mart%C3%ADn_Vargas_2_%28cropped%29.jpg',
     imageFallback: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop',
     description: [
-      '<strong>Martín Vargas Fuentes</strong>, nascido em 22 de janeiro de 1955 em Osorno, é amplamente considerado o <strong>maior boxeador chileno de todos os tempos</strong> e um dos mais importantes <strong>pugilistas da história do boxe chileno</strong>. Durante sua extensa carreira no <strong>boxe profissional</strong>, que se estendeu de 1973 a 1989, <strong>Vargas disputou quatro vezes o título mundial</strong> na categoria <strong>peso mosca</strong>, tornando-se um verdadeiro <strong>ícone nacional do boxe</strong> e o <strong>boxeador mais amado do Chile</strong>.',
-      'Com suas múltiplas tentativas de conquistar o <strong>título mundial de boxe</strong>, <strong>Martín Vargas</strong> transformou cada uma de suas lutas em verdadeiros <strong>eventos nacionais</strong> no Chile, unindo todo o país na esperança de ver um <strong>boxeador chileno</strong> finalmente conquistar o <strong>título mundial profissional</strong>.'
+      '<strong>Martín Vargas Fuentes</strong>, nacido el 22 de enero de 1955 en Osorno, es ampliamente considerado el <strong>mejor boxeador chileno de todos los tiempos</strong> y uno de los más importantes <strong>pugilistas de la historia del boxeo chileno</strong>. Durante su extensa carrera en el <strong>boxeo profesional</strong>, que se extendió de 1973 a 1989, <strong>Vargas disputó cuatro veces el título mundial</strong> en la categoría <strong>peso mosca</strong>, convirtiéndose en un verdadero <strong>ícono nacional del boxeo</strong> y el <strong>boxeador más querido de Chile</strong>.',
+      'Con sus múltiples intentos de conquistar el <strong>título mundial de boxeo</strong>, <strong>Martín Vargas</strong> transformó cada una de sus peleas en verdaderos <strong>eventos nacionales</strong> en Chile, uniendo a todo el país en la esperanza de ver a un <strong>boxeador chileno</strong> finalmente conquistar el <strong>título mundial profesional</strong>.'
     ],
     detailedInfo: [
       {
-        title: 'Ascensão ao Estrelato no Boxe Profissional',
-        content: '<strong>Martín Vargas</strong> começou sua jornada no <strong>boxe profissional</strong> em 1973 e rapidamente se tornou uma figura central e fundamental no <strong>boxe chileno</strong>. Sua técnica refinada, resistência física excepcional e determinação inabalável o levaram a competir nos mais altos níveis do <strong>boxe mundial</strong>. Em 1975, conquistou o prestigioso <strong>título sul-americano dos pesos mosca</strong>, estabelecendo-se definitivamente como um dos principais <strong>boxeadores da América Latina</strong> e preparando o caminho para suas futuras disputas pelo <strong>título mundial</strong>.'
+        title: 'Ascenso al Estrellato en el Boxeo Profesional',
+        content: '<strong>Martín Vargas</strong> comenzó su jornada en el <strong>boxeo profesional</strong> en 1973 y rápidamente se convirtió en una figura central y fundamental en el <strong>boxeo chileno</strong>. Su técnica refinada, resistencia física excepcional y determinación inquebrantable lo llevaron a competir en los más altos niveles del <strong>boxeo mundial</strong>. En 1975, conquistó el prestigioso <strong>título sudamericano de peso mosca</strong>, estableciéndose definitivamente como uno de los principales <strong>boxeadores de América Latina</strong> y preparando el camino para sus futuras disputas por el <strong>título mundial</strong>.'
       },
       {
-        title: 'As Quatro Disputas Históricas pelo Título Mundial',
-        content: 'O feito mais notável e histórico de <strong>Martín Vargas</strong> foi disputar o <strong>título mundial de boxe</strong> por impressionantes <strong>quatro vezes</strong>, algo extremamente raro no <strong>boxe profissional</strong> e que demonstra sua consistência excepcional e qualidade como <strong>boxeador de elite mundial</strong>. Ele enfrentou grandes adversários como <strong>Betulio González</strong> e <strong>Yoko Gushiken</strong>, sempre demonstrando coragem extraordinária e determinação feroz.'
+        title: 'Las Cuatro Disputas Históricas por el Título Mundial',
+        content: 'El logro más notable e histórico de <strong>Martín Vargas</strong> fue disputar el <strong>título mundial de boxeo</strong> en impresionantes <strong>cuatro ocasiones</strong>, algo extremadamente raro en el <strong>boxeo profesional</strong> y que demuestra su consistencia excepcional y calidad como <strong>boxeador de élite mundial</strong>. Se enfrentó a grandes adversarios como <strong>Betulio González</strong> y <strong>Yoko Gushiken</strong>, siempre demostrando extraordinaria valentía y feroz determinación.'
       },
       {
-        title: 'O Ídolo Nacional do Boxe Chileno',
-        content: 'Durante seus 16 anos de carreira no <strong>boxe profissional</strong> (1973-1989), <strong>Martín Vargas</strong> não apenas competiu contra os maiores nomes do <strong>boxe mundial</strong>, mas também se tornou uma figura profundamente amada por milhões de <strong>chilenos</strong>. Suas tentativas épicas de conquistar o <strong>título mundial</strong> eram acompanhadas com paixão e esperança por toda a nação.'
+        title: 'El Ídolo Nacional del Boxeo Chileno',
+        content: 'Durante sus 16 años de carrera en el <strong>boxeo profesional</strong> (1973-1989), <strong>Martín Vargas</strong> no solo compitió contra los mayores nombres del <strong>boxeo mundial</strong>, sino que también se convirtió en una figura profundamente querida por millones de <strong>chilenos</strong>. Sus intentos épicos de conquistar el <strong>título mundial</strong> eran acompañados con pasión y esperanza por toda la nación.'
       },
       {
-        title: 'Legado Eterno e Reconhecimento no Boxe Mundial',
-        content: '<strong>Martín Vargas</strong> é frequentemente citado como o <strong>boxeador mais importante da história do esporte chileno</strong> e um dos mais respeitados <strong>pugilistas da América Latina</strong>. Mesmo após sua aposentadoria em 1989, ele continua sendo uma referência absoluta no <strong>boxe chileno</strong> e uma inspiração para novos <strong>boxeadores profissionais</strong>.'
+        title: 'Legado Eterno y Reconocimiento en el Boxeo Mundial',
+        content: '<strong>Martín Vargas</strong> es frecuentemente citado como el <strong>boxeador más importante de la historia del deporte chileno</strong> y uno de los más respetados <strong>pugilistas de América Latina</strong>. Incluso después de su retiro en 1989, continúa siendo una referencia absoluta en el <strong>boxeo chileno</strong> y una inspiración para nuevos <strong>boxeadores profesionales</strong>.'
       }
     ],
     specialImageClass: true
@@ -66,30 +66,30 @@ export const fighters = [
     id: 'stevens',
     number: '03',
     name: 'Godfrey Stevens',
-    title: 'O Boxeador Chileno que Desafiou o Mundo',
-    subtitle: 'Campeão Sul-Americano e Desafiante Mundial dos Pesos Pena',
+    title: 'El Boxeador Chileno que Desafió al Mundo',
+    subtitle: 'Campeón Sudamericano y Desafiante Mundial de Peso Pluma',
     image: 'https://www.latercera.com/resizer/v2/ECHZNNMRHNFUXL6IDJLLYKZ6ZE.jpeg?auth=e3882d33be71e5b68d12dc6909f915ab4eecab1d8dde4e2e5f5d6fb99cf80584&smart=true&width=450&height=253&quality=70',
     imageFallback: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Godfrey_Stevens.jpg/800px-Godfrey_Stevens.jpg',
     description: [
-      '<strong>Godfrey Stevens</strong>, nascido em Renca em 1938, foi um destacado e talentoso <strong>boxeador chileno</strong> que se destacou na <strong>categoria peso pena</strong> durante os anos 1960 e 1970, período de ouro do <strong>boxe profissional chileno</strong>. Em 1970, ele alcançou o auge absoluto de sua carreira ao disputar o prestigioso <strong>título mundial dos pesos pena</strong> contra o campeão japonês <strong>Shozo Saijo</strong>, demonstrando de forma definitiva a qualidade excepcional do <strong>boxe chileno</strong> no <strong>cenário internacional do boxe</strong>.',
-      'Como um dos primeiros <strong>boxeadores chilenos</strong> a alcançar uma disputa de <strong>título mundial</strong> após a era de <strong>Arturo Godoy</strong>, <strong>Stevens</strong> manteve a tradição de excelência do <strong>boxe chileno</strong> e inspirou uma nova geração de <strong>pugilistas chilenos</strong>.'
+      '<strong>Godfrey Stevens</strong>, nacido en Renca en 1938, fue un destacado y talentoso <strong>boxeador chileno</strong> que se destacó en la <strong>categoría peso pluma</strong> durante los años 1960 y 1970, período de oro del <strong>boxeo profesional chileno</strong>. En 1970, alcanzó la cima absoluta de su carrera al disputar el prestigioso <strong>título mundial de peso pluma</strong> contra el campeón japonés <strong>Shozo Saijo</strong>, demostrando de forma definitiva la calidad excepcional del <strong>boxeo chileno</strong> en el <strong>escenario internacional del boxeo</strong>.',
+      'Como uno de los primeros <strong>boxeadores chilenos</strong> en alcanzar una disputa de <strong>título mundial</strong> después de la era de <strong>Arturo Godoy</strong>, <strong>Stevens</strong> mantuvo la tradición de excelencia del <strong>boxeo chileno</strong> e inspiró a una nueva generación de <strong>pugilistas chilenos</strong>.'
     ],
     detailedInfo: [
       {
-        title: 'Início da Carreira no Boxe Profissional',
-        content: '<strong>Godfrey Stevens</strong> iniciou sua carreira no <strong>boxe profissional</strong> nos anos 1960, rapidamente se destacando pela sua <strong>técnica apurada</strong> e <strong>estilo elegante</strong> no ringue. Sua agilidade impressionante e velocidade excepcional o tornaram um <strong>boxeador respeitado</strong> na <strong>categoria peso pena</strong>, onde a <strong>técnica refinada</strong> e a <strong>inteligência tática</strong> são características fundamentais para o sucesso no <strong>boxe profissional</strong>.'
+        title: 'Inicio de la Carrera en el Boxeo Profesional',
+        content: '<strong>Godfrey Stevens</strong> inició su carrera en el <strong>boxeo profesional</strong> en los años 1960, rápidamente destacándose por su <strong>técnica depurada</strong> y <strong>estilo elegante</strong> en el cuadrilátero. Su impresionante agilidad y velocidad excepcional lo convirtieron en un <strong>boxeador respetado</strong> en la <strong>categoría peso pluma</strong>, donde la <strong>técnica refinada</strong> y la <strong>inteligencia táctica</strong> son características fundamentales para el éxito en el <strong>boxeo profesional</strong>.'
       },
       {
-        title: 'Campeão Sul-Americano dos Pesos Pena',
-        content: 'Antes de alcançar o prestigioso <strong>cenário mundial do boxe</strong>, <strong>Stevens</strong> conquistou o importante <strong>título sul-americano dos pesos pena</strong> em 1966, estabelecendo-se definitivamente como um dos principais <strong>boxeadores da América Latina</strong> de sua época. Esta conquista regional foi um passo crucial em sua jornada rumo ao topo do <strong>boxe mundial</strong>.'
+        title: 'Campeón Sudamericano de Peso Pluma',
+        content: 'Antes de alcanzar el prestigioso <strong>escenario mundial del boxeo</strong>, <strong>Stevens</strong> conquistó el importante <strong>título sudamericano de peso pluma</strong> en 1966, estableciéndose definitivamente como uno de los principales <strong>boxeadores de América Latina</strong> de su época. Esta conquista regional fue un paso crucial en su jornada hacia la cima del <strong>boxeo mundial</strong>.'
       },
       {
-        title: 'A Disputa Histórica pelo Título Mundial',
-        content: 'Em 1970, <strong>Godfrey Stevens</strong> alcançou o auge absoluto de sua carreira ao enfrentar o <strong>campeão mundial Shozo Saijo</strong>, do Japão, pelo prestigioso <strong>título mundial dos pesos pena</strong>. Esta luta épica colocou <strong>Stevens</strong> entre os <strong>dez melhores boxeadores</strong> de sua categoria no mundo e foi um momento histórico e memorável para o <strong>boxe chileno</strong>.'
+        title: 'La Disputa Histórica por el Título Mundial',
+        content: 'En 1970, <strong>Godfrey Stevens</strong> alcanzó la cima absoluta de su carrera al enfrentarse al <strong>campeón mundial Shozo Saijo</strong>, de Japón, por el prestigioso <strong>título mundial de peso pluma</strong>. Esta pelea épica colocó a <strong>Stevens</strong> entre los <strong>diez mejores boxeadores</strong> de su categoría en el mundo y fue un momento histórico y memorable para el <strong>boxeo chileno</strong>.'
       },
       {
-        title: 'Legado Duradouro e Impacto no Boxe Chileno',
-        content: '<strong>Godfrey Stevens</strong> faleceu em 2022, mas seu <strong>legado no boxe chileno</strong> permanece vivo e inspirador. Ele é lembrado como um dos <strong>boxeadores</strong> que mais elevou o nome do <strong>Chile</strong> no <strong>cenário internacional do boxe</strong> durante os anos 1960 e 1970.'
+        title: 'Legado Duradero e Impacto en el Boxeo Chileno',
+        content: '<strong>Godfrey Stevens</strong> falleció en 2022, pero su <strong>legado en el boxeo chileno</strong> permanece vivo e inspirador. Es recordado como uno de los <strong>boxeadores</strong> que más elevó el nombre de <strong>Chile</strong> en el <strong>escenario internacional del boxeo</strong> durante los años 1960 y 1970.'
       }
     ]
   },
@@ -97,26 +97,26 @@ export const fighters = [
     id: 'villablanca',
     number: '04',
     name: 'Benedicto Villablanca',
-    title: 'O Primeiro Campeão Mundial do Boxe Chileno',
-    subtitle: 'Pioneiro que Conquistou o Título Mundial WBA',
+    title: 'El Primer Campeón Mundial del Boxeo Chileno',
+    subtitle: 'Pionero que Conquistó el Título Mundial WBA',
     image: 'https://static.emol.cl/emol50/Fotos/2020/04/10/file_20200410182808.jpg',
     imageFallback: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Benedicto_Villablanca.jpg/800px-Benedicto_Villablanca.jpg',
     description: [
-      '<strong>Benedicto Villablanca</strong>, nascido em Lonquimay em 1957, foi o histórico <strong>primeiro boxeador profissional chileno a se tornar campeão mundial</strong> de boxe, escrevendo seu nome de forma permanente na <strong>história do boxe chileno</strong>. Ele iniciou sua carreira no <strong>boxe profissional</strong> em 1976 e, em 1982, fez história ao derrotar o campeão <strong>Samuel Serrano</strong> pelo <strong>título mundial dos pesos superpenas da WBA</strong> (World Boxing Association), realizando o sonho de toda uma nação e estabelecendo um marco histórico para o <strong>boxe chileno</strong>.',
-      'Esta conquista histórica de <strong>Benedicto Villablanca</strong> foi um momento transformador para o <strong>boxe chileno</strong>, provando definitivamente que os <strong>boxeadores chilenos</strong> podiam não apenas competir, mas também conquistar <strong>títulos mundiais</strong> no <strong>boxe profissional</strong>.'
+      '<strong>Benedicto Villablanca</strong>, nacido en Lonquimay en 1957, fue el histórico <strong>primer boxeador profesional chileno en convertirse en campeón mundial</strong> de boxeo, escribiendo su nombre de forma permanente en la <strong>historia del boxeo chileno</strong>. Inició su carrera en el <strong>boxeo profesional</strong> en 1976 y, en 1982, hizo historia al derrotar al campeón <strong>Samuel Serrano</strong> por el <strong>título mundial de peso superpluma de la WBA</strong> (World Boxing Association), realizando el sueño de toda una nación y estableciendo un hito histórico para el <strong>boxeo chileno</strong>.',
+      'Esta conquista histórica de <strong>Benedicto Villablanca</strong> fue un momento transformador para el <strong>boxeo chileno</strong>, probando definitivamente que los <strong>boxeadores chilenos</strong> podían no solo competir, sino también conquistar <strong>títulos mundiales</strong> en el <strong>boxeo profesional</strong>.'
     ],
     detailedInfo: [
       {
-        title: 'Início da Carreira no Boxe Profissional',
-        content: '<strong>Benedicto Villablanca</strong> iniciou sua jornada histórica no <strong>boxe profissional</strong> em 1976, demonstrando desde cedo um <strong>talento excepcional</strong> e uma determinação feroz. Nascido em Lonquimay, uma cidade no sul do <strong>Chile</strong>, <strong>Villablanca</strong> superou diversas adversidades para se tornar um <strong>boxeador de nível internacional</strong>.'
+        title: 'Inicio de la Carrera en el Boxeo Profesional',
+        content: '<strong>Benedicto Villablanca</strong> inició su jornada histórica en el <strong>boxeo profesional</strong> en 1976, demostrando desde temprano un <strong>talento excepcional</strong> y una feroz determinación. Nacido en Lonquimay, una ciudad en el sur de <strong>Chile</strong>, <strong>Villablanca</strong> superó diversas adversidades para convertirse en un <strong>boxeador de nivel internacional</strong>.'
       },
       {
-        title: 'A Conquista Histórica do Título Mundial WBA',
-        content: 'Em 1982, <strong>Benedicto Villablanca</strong> alcançou o feito mais importante e histórico de sua carreira ao enfrentar o <strong>campeão mundial Samuel Serrano</strong>, da Porto Rico, pelo prestigioso <strong>título mundial dos pesos superpenas da WBA</strong> (World Boxing Association). Em uma <strong>luta épica e memorável</strong>, <strong>Villablanca</strong> derrotou <strong>Serrano</strong>, tornando-se assim o histórico <strong>primeiro boxeador profissional chileno a conquistar um título mundial</strong> de boxe.'
+        title: 'La Conquista Histórica del Título Mundial WBA',
+        content: 'En 1982, <strong>Benedicto Villablanca</strong> alcanzó el logro más importante e histórico de su carrera al enfrentarse al <strong>campeón mundial Samuel Serrano</strong>, de Puerto Rico, por el prestigioso <strong>título mundial de peso superpluma de la WBA</strong> (World Boxing Association). En una <strong>pelea épica y memorable</strong>, <strong>Villablanca</strong> derrotó a <strong>Serrano</strong>, convirtiéndose así en el histórico <strong>primer boxeador profesional chileno en conquistar un título mundial</strong> de boxeo.'
       },
       {
-        title: 'Legado Pionheiro e Impacto Duradouro',
-        content: '<strong>Benedicto Villablanca</strong> é lembrado como um verdadeiro <strong>pioneiro do boxe chileno</strong>. Ao se tornar o <strong>primeiro boxeador profissional chileno campeão mundial</strong> (mesmo que temporariamente), ele abriu caminhos históricos e inspirou gerações futuras de <strong>boxeadores chilenos</strong>.'
+        title: 'Legado Pionero e Impacto Duradero',
+        content: '<strong>Benedicto Villablanca</strong> es recordado como un verdadero <strong>pionero del boxeo chileno</strong>. Al convertirse en el <strong>primer boxeador profesional chileno campeón mundial</strong> (aunque fuera temporalmente), abrió caminos históricos e inspiró a generaciones futuras de <strong>boxeadores chilenos</strong>.'
       }
     ]
   },
@@ -124,26 +124,26 @@ export const fighters = [
     id: 'cornejo',
     number: '05',
     name: 'Alfredo Cornejo',
-    title: 'Ícone da Era Dourada do Boxe Chileno',
-    subtitle: 'Campeão Nacional e Representante Internacional',
+    title: 'Ícono de la Edad de Oro del Boxeo Chileno',
+    subtitle: 'Campeón Nacional y Representante Internacional',
     image: 'https://www.fechibox.cl/wp-content/uploads/2021/08/cornejo-e1629231735375.png',
     imageFallback: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Alfredo_Cornejo%2C_Estadio%2C_1955-01-01_%28607%29.jpg/800px-Alfredo_Cornejo%2C_Estadio%2C_1955-01-01_%28607%29.jpg',
     description: [
-      '<strong>Alfredo Cornejo</strong> foi um destacado e respeitado <strong>boxeador chileno</strong> que competiu durante as décadas de 1940 e 1950, período considerado a verdadeira <strong>era dourada do boxe chileno</strong>. Ele se destacou de forma notável em sua categoria, conquistando importantes <strong>títulos nacionais</strong> e representando o <strong>Chile</strong> com distinção e honra em diversas <strong>competições internacionais de boxe</strong>, contribuindo significativamente para o prestígio do <strong>boxe chileno</strong> no cenário mundial.',
-      'Como parte da geração de <strong>boxeadores</strong> que estabeleceu a base do <strong>boxe profissional chileno</strong>, <strong>Alfredo Cornejo</strong> desempenhou um papel fundamental na construção da rica tradição boxística do <strong>Chile</strong>.'
+      '<strong>Alfredo Cornejo</strong> fue un destacado y respetado <strong>boxeador chileno</strong> que compitió durante las décadas de 1940 y 1950, período considerado la verdadera <strong>edad de oro del boxeo chileno</strong>. Se destacó de forma notable en su categoría, conquistando importantes <strong>títulos nacionales</strong> y representando a <strong>Chile</strong> con distinción y honor en diversas <strong>competencias internacionales de boxeo</strong>, contribuyendo significativamente al prestigio del <strong>boxeo chileno</strong> en el escenario mundial.',
+      'Como parte de la generación de <strong>boxeadores</strong> que estableció la base del <strong>boxeo profesional chileno</strong>, <strong>Alfredo Cornejo</strong> desempeñó un papel fundamental en la construcción de la rica tradición boxística de <strong>Chile</strong>.'
     ],
     detailedInfo: [
       {
-        title: 'A Era Dourada do Boxe Profissional Chileno',
-        content: '<strong>Alfredo Cornejo</strong> competiu durante uma das épocas mais gloriosas e memoráveis do <strong>boxe chileno</strong>, quando o país produzia uma <strong>geração excepcional de boxeadores</strong> que elevaram o <strong>boxe nacional</strong> ao <strong>cenário internacional</strong>. Esta <strong>era dourada</strong> foi marcada por grandes conquistas regionais e internacionais.'
+        title: 'La Edad de Oro del Boxeo Profesional Chileno',
+        content: '<strong>Alfredo Cornejo</strong> compitió durante una de las épocas más gloriosas y memorables del <strong>boxeo chileno</strong>, cuando el país producía una <strong>generación excepcional de boxeadores</strong> que elevaron el <strong>boxeo nacional</strong> al <strong>escenario internacional</strong>. Esta <strong>edad de oro</strong> estuvo marcada por grandes conquistas regionales e internacionales.'
       },
       {
-        title: 'Conquistas Nacionais e Títulos Importantes',
-        content: '<strong>Alfredo Cornejo</strong> alcançou sucesso significativo em nível nacional, conquistando <strong>títulos importantes</strong> que o estabeleceram como um dos principais <strong>boxeadores de sua época no Chile</strong>. Suas <strong>conquistas nacionais</strong> foram fundamentais para sua carreira no <strong>boxe profissional</strong>.'
+        title: 'Conquistas Nacionales y Títulos Importantes',
+        content: '<strong>Alfredo Cornejo</strong> alcanzó éxito significativo a nivel nacional, conquistando <strong>títulos importantes</strong> que lo establecieron como uno de los principales <strong>boxeadores de su época en Chile</strong>. Sus <strong>conquistas nacionales</strong> fueron fundamentales para su carrera en el <strong>boxeo profesional</strong>.'
       },
       {
-        title: 'Legado Eterno e Memória no Boxe Chileno',
-        content: 'Embora os detalhes específicos de sua carreira não estejam amplamente documentados em registros públicos, <strong>Alfredo Cornejo</strong> é lembrado como parte integrante de uma <strong>geração excepcional de boxeadores chilenos</strong> que marcou época. Seu nome está associado à <strong>era de ouro do boxe nacional</strong>.'
+        title: 'Legado Eterno y Memoria en el Boxeo Chileno',
+        content: 'Aunque los detalles específicos de su carrera no estén ampliamente documentados en registros públicos, <strong>Alfredo Cornejo</strong> es recordado como parte integrante de una <strong>generación excepcional de boxeadores chilenos</strong> que marcó época. Su nombre está asociado a la <strong>edad de oro del boxeo nacional</strong>.'
       }
     ]
   }
