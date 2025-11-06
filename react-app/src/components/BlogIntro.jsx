@@ -19,11 +19,11 @@ const BlogIntro = () => {
       </div>
       <div className="featured-image">
         <img 
-          src="https://images.unsplash.com/photo-1575654402720-0af3480d1fad?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1482" 
+          src="https://images.unsplash.com/photo-1575747515871-2e323827539e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1641" 
           alt="Cuadrilátero de boxeo profesional histórico - Boxeo Chileno" 
           className="main-image"
           loading="lazy"
-          width="1482"
+          width="1641"
           height="988"
         />
         <p className="image-caption">
