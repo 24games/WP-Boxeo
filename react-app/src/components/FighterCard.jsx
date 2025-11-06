@@ -5,7 +5,7 @@ const FighterCard = ({ fighter }) => {
   const [isExpanded, setIsExpanded] = useState(false);
 
   const handleImageError = (e) => {
-    if (e.target.src !== fighter.imageFallback) {
+    if (fighter.imageFallback && e.target.src !== fighter.imageFallback) {
       e.target.src = fighter.imageFallback;
     }
   };

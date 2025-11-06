@@ -5,7 +5,12 @@ document.addEventListener('DOMContentLoaded', function() {
         button.addEventListener('click', function() {
             const targetId = this.getAttribute('data-target');
             const content = document.getElementById(targetId);
-            const arrow = this.querySelector('.arrow');
+            
+            // Verificar se o elemento existe antes de manipular
+            if (!content) {
+                console.error('Elemento não encontrado:', targetId);
+                return;
+            }
             
             // Toggle active class on button
             this.classList.toggle('active');
