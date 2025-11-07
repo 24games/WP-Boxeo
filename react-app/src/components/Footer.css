@@ -39,3 +39,31 @@
     font-weight: 300;
 }
 
+.footer-links {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.footer-link {
+    color: var(--text-gray);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s ease, opacity 0.3s ease;
+    opacity: 0.8;
+}
+
+.footer-link:hover {
+    color: var(--text-light);
+    opacity: 1;
+}
+
+.footer-link-separator {
+    color: var(--text-gray);
+    opacity: 0.5;
+    font-size: 0.9rem;
+}
+

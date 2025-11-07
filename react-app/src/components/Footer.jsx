@@ -5,6 +5,11 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <p>&copy; 2024 Blog de Boxeo Chileno. Todos los derechos reservados.</p>
+        <div className="footer-links">
+          <a href="/terminos-y-condiciones" className="footer-link">Términos y Condiciones</a>
+          <span className="footer-link-separator">|</span>
+          <a href="/politica-de-privacidad" className="footer-link">Política de Privacidad</a>
+        </div>
         <p className="footer-note">
           Un homenaje a los grandes nombres que elevaron el boxeo chileno al escenario mundial.
         </p>
